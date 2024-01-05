@@ -4,7 +4,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 - 🔭 Networking and Community Engagement: Participating in developer communities, attending meetups, or engaging in forums to share knowledge and experiences
 - 👾 New Technologies: Staying updated on the latest technologies and tools in the software development industry
-- - 🌱 I’m currently learning [Tauri](https://tauri.app)
+- 🌱 I’m currently learning [Tauri](https://tauri.app)
 - 🌎 Find me around the web: [Portfolio](https://caportfolio.vercel.app)
 
 
