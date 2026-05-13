@@ -45,5 +45,3 @@ I'm a full‑stack software engineer who takes products from **brief to producti
 ## GitHub stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CaesarDeveloper&theme=dark)](https://git.io/streak-stats)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaesarDeveloper&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
